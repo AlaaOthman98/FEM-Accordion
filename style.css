@@ -39,7 +39,7 @@ h3 {
   border-radius: 1.5rem;
   max-width: 56rem;
   padding: 2.875rem 1.5rem;
-  background-image: url('./faq-accordion-card-main/images/bg-pattern-mobile.svg');
+  background-image: url('./assets/images/bg-pattern-mobile.svg');
   background-repeat: no-repeat;
   background-position: center top;
   background-size: 15rem%;
@@ -95,7 +95,7 @@ h3 {
   width: 0.625rem;
   height: 1rem;
   border: none;
-  background-image: url('./faq-accordion-card-main/images/icon-arrow-down.svg');
+  background-image: url('./assets/images/icon-arrow-down.svg');
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center center;
@@ -151,7 +151,7 @@ h3 {
     display: flex;
     margin: 0 auto;
     padding: 4.375rem 6.25rem 4.375rem 0;
-    background-image: url('./faq-accordion-card-main/images/bg-pattern-desktop.svg');
+    background-image: url('./assets/images/bg-pattern-desktop.svg');
     background-size: 45%;
     background-position: -13% center;
   }
